@@ -20,6 +20,6 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "Amplitude",
-            url: "https://github.com/betterme-dev/AmplitudeXCFramework/releases/download/1.0.0/AmplitudeXCFramework.xcframework.zip",
+            url: "https://github.com/betterme-dev/AmplitudeXCFramework/releases/download/8.2.1/AmplitudeXCFramework.xcframework.zip",
             checksum: "f5afa2b311e67093abe13b56513ff4b3215475070b21fc5e5be463120d6725fa"),
     ])
